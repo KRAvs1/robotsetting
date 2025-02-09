@@ -1,6 +1,4 @@
 # robotsetting
 
-welcome
-
-Robot
+welcome to my space, you can check my repositories
 
